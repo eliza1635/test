@@ -1,0 +1,3 @@
+/home/vlad/cpp/curves_3d/linux/curves/build/CMakeFiles/curves.dir
+/home/vlad/cpp/curves_3d/linux/curves/build/CMakeFiles/edit_cache.dir
+/home/vlad/cpp/curves_3d/linux/curves/build/CMakeFiles/rebuild_cache.dir

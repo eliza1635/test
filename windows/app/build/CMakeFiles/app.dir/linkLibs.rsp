@@ -1,0 +1,1 @@
+  -LC:/_programming/curves_3d/test1_2/app/../curves/build  -L"C:/_programming/curves_3d/test1_2/app/../oneTBB-tbb_2020/build/windows_intel64_gcc_mingw14.1.0_release"  -ltbb -lcurves -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

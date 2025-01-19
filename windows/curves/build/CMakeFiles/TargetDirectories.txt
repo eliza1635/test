@@ -1,0 +1,3 @@
+C:/_programming/curves_3d/test1_2/curves/build/CMakeFiles/curves.dir
+C:/_programming/curves_3d/test1_2/curves/build/CMakeFiles/edit_cache.dir
+C:/_programming/curves_3d/test1_2/curves/build/CMakeFiles/rebuild_cache.dir

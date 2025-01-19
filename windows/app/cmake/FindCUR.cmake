@@ -1,0 +1,1 @@
+find_library(CURVES NAMES curves PATHS ../curves/build REQUIRED)

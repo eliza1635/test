@@ -1,0 +1,3 @@
+C:\cmake\cmake-3.31.4-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\curves.dir/objects.a
+C:\Users\margo\gcc\bin\ar.exe qc CMakeFiles\curves.dir/objects.a @CMakeFiles\curves.dir\objects1.rsp
+g++ -shared -o libcurves.dll -Wl,--out-implib,libcurves.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\curves.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\curves.dir\linkLibs.rsp

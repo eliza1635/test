@@ -1,0 +1,1 @@
+g++ -fPIC -shared -Wl,-soname,libcurves.so -o libcurves.so CMakeFiles/curves.dir/src/curves.cc.o

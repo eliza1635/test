@@ -1,0 +1,1 @@
+find_library(oneTBB PATHS ../oneTBB-tbb_2020/build/windows_intel64_gcc_mingw14.1.0_release)
